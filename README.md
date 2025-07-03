@@ -1,4 +1,4 @@
-# Responsive Portfolio Website From Scratch
+# 🧩 Responsive Portfolio Website From Scratch
 
 This repo contains a responsive landing page project built completely from scratch using vanilla HTML, CSS, and JavaScript — no frameworks involved.
 
