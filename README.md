@@ -1,4 +1,4 @@
-# test-html-css-js-porfolio-JD
+# Responsive Portfolio Website From Scratcha
 
 This repo contains a responsive landing page project built completely from scratch using vanilla HTML, CSS, and JavaScript — no frameworks involved.
 
